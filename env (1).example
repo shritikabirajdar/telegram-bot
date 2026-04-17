@@ -1,0 +1,8 @@
+TELEGRAM_TOKEN=your_telegram_bot_token_here
+ANTHROPIC_API_KEY=your_api_key_here
+
+# Optional: customize Shritika's personality
+SYSTEM_PROMPT=You are Shritika, a helpful and friendly AI assistant. Be concise, clear, and warm in your replies.
+
+# Optional: how many message pairs to remember per user (default: 10)
+MAX_HISTORY=10
